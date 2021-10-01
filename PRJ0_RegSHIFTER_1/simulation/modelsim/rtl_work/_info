@@ -1,0 +1,125 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/simulation/modelsim
+vBB_SYSTEM
+Z1 !s110 1633055958
+!i10b 1
+!s100 NKOO8U6_Q6z@UnKjcgb593
+ImlTToLEVn?9Wh8>j]OiRd1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1633052529
+8C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/BB_SYSTEM.v
+FC:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/BB_SYSTEM.v
+L0 162
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1633055958.000000
+!s107 C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/BB_SYSTEM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1|C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/BB_SYSTEM.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1}
+Z6 tCvgOpt 0
+n@b@b_@s@y@s@t@e@m
+vSC_DEBOUNCE1
+R1
+!i10b 1
+!s100 R1A>6;z02mNBGFV[E4kge0
+I>8<l4ml2bPLCPJ<AHo5Sh1
+R2
+R0
+Z7 w1633049728
+8C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_DEBOUNCE1.v
+FC:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_DEBOUNCE1.v
+L0 44
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_DEBOUNCE1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl|C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_DEBOUNCE1.v|
+!i113 1
+R5
+Z8 !s92 -vlog01compat -work work {+incdir+C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl}
+R6
+n@s@c_@d@e@b@o@u@n@c@e1
+vSC_RegSHIFTER
+R1
+!i10b 1
+!s100 e@l1`@aGX`7d=@E<M>35o3
+I`Zc[82F=kaHf_0X_]i_>[1
+R2
+R0
+Z9 w1633051747
+8C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_RegSHIFTER.v
+FC:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_RegSHIFTER.v
+Z10 L0 21
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_RegSHIFTER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl|C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_RegSHIFTER.v|
+!i113 1
+R5
+R8
+R6
+n@s@c_@reg@s@h@i@f@t@e@r
+vSC_STATEMACHINE
+R1
+!i10b 1
+!s100 2TPeLW[WDXL1Q0jHEMRSm1
+I[AG_Ca`0?leOW]dOPbJMI2
+R2
+R0
+R7
+8C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_STATEMACHINE.v
+FC:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_STATEMACHINE.v
+R10
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_STATEMACHINE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl|C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/rtl/SC_STATEMACHINE.v|
+!i113 1
+R5
+R8
+R6
+n@s@c_@s@t@a@t@e@m@a@c@h@i@n@e
+vTB_SYSTEM
+R1
+!i10b 1
+!s100 mT0ZjQIjaYmod[M`I8e2]3
+Il;A=b5QLGPO2=9Lj1N0]I3
+R2
+R0
+R9
+8C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/simulation/modelsim/TB_SYSTEM.vt
+FC:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/simulation/modelsim/TB_SYSTEM.vt
+L0 19
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/simulation/modelsim/TB_SYSTEM.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/simulation/modelsim|C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/simulation/modelsim/TB_SYSTEM.vt|
+!i113 1
+R5
+!s92 -vlog01compat -work work {+incdir+C:/Users/diani/OneDrive/Escritorio/Sexto semestre/Digitales/M04/PRJ0_RegSHIFTER_1/PRJ0_RegSHIFTER_1/simulation/modelsim}
+R6
+n@t@b_@s@y@s@t@e@m
